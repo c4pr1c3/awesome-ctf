@@ -41,6 +41,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
   - [Websites](#websites)
   - [Wikis](#wikis)
   - [Writeups Collections](#writeups-collections)
+  - [Keywords to explore](#keywords-to-explore)
 
 # Create
 
@@ -295,9 +296,13 @@ Check solve section for steganography.
 
 - [CTF Field Guide](https://trailofbits.github.io/ctf/) - Field Guide by Trails of Bits
 - [CTF Resources](http://ctfs.github.io/resources/) -  Start Guide maintained by community
-- [Damn Vulnerable Web Application](http://www.dvwa.co.uk/) PHP/MySQL web application that is damn vulnerable
+- [Damn Vulnerable Web Application](http://www.dvwa.co.uk/) - PHP/MySQL web application that is damn vulnerable
 - [How to Get Started in CTF](https://www.endgame.com/blog/how-get-started-ctf) - Short guideline for CTF beginners by Endgame
 - [MIPT CTF](https://github.com/xairy/mipt-ctf) - A small course for beginners in CTFs (in Russian)
+- [CTF related notes](https://github.com/it-ebooks/hacking-reading-list) - Personal CTFs and beyond notes (in Chinese)
+- [CTF-pwn-tips](https://github.com/Naetw/CTF-pwn-tips) - Some tips about pwn
+- [CTF Tricks by Phithon](https://loudong.360.cn/Public/download/Phithon%E2%80%94%E2%80%94CTF%E6%AF%94%E8%B5%9B%E6%80%BB%E6%98%AF%E8%BE%93%EF%BC%9F%E4%BD%A0%E8%BF%98%E5%B7%AE%E7%82%B9Tricks!.pdf) - CTF tricks about Web (in Chinese)
+- [OWASP Mutillidae 2 Project](https://www.owasp.org/index.php/OWASP_Mutillidae_2_Project) - a free, open source, deliberately vulnerable web-application providing a target for web-security enthusiest
 
 ## Wargames
 
@@ -327,6 +332,7 @@ Check solve section for steganography.
 *Self-hosted CTFs*
 
 - [Juice Shop CTF](https://github.com/bkimminich/juice-shop-ctf) - Scripts and tools for hosting a CTF on [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) easily.
+- [My CTF Web Challenges](https://github.com/orangetw/My-CTF-Web-Challenges) - CTF challenge's source code, writeup and some idea explanation. All about Web.
 
 ## Websites
 
@@ -342,6 +348,7 @@ Check solve section for steganography.
 - [Bamboofox](https://bamboofox.torchpad.com/) - Chinese resources to learn CTF
 - [ISIS Lab](https://github.com/isislab/Project-Ideas/wiki) - CTF Wiki by Isis lab
 - [OpenToAll](http://wiki.opentoallctf.com/) - Open To All Knowledge Base
+- [CTF-Wiki](https://ctf-wiki.github.io/ctf-wiki/) - Open Wiki for beginners in CTFs  (in Chinese)
 
 ## Writeups Collections
 
@@ -354,6 +361,17 @@ Check solve section for steganography.
 - [Shell Storm](shell-storm.org/repo/CTF/) - CTF challenge archive maintained by Jonathan Salwan
 - [Smoke Leet Everyday](https://github.com/smokeleeteveryday/CTF_WRITEUPS) - CTF write-ups repo maintained by SmokeLeetEveryday team.
 
+## Keywords to explore
+
+> Dont' forget to translate these Keywords into your Native language
+
+* tips - ex: exploit tips php / exploit tips java / exploit tips python
+* tricks
+* cheatsheet - ex: php security cheatsheet
+* checklist - ex: php security checklist
+* bypass - ex: bypass WAF / bypass sql injection prevention
+* vulnerability database - find known vulnerabilities related to challenge's runtime
+* **Feature Keywords in CTF challenges** - find known or similar challenges and writeups
 
 ### LICENSE
 
