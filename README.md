@@ -84,7 +84,7 @@ Check solve section for steganography.
 
 *JavaScript Obfustcators*
 
-- [Metasploit JavaScript Obfustcator](https://github.com/rapid7/metasploit-framework/wiki/How-to-obfuscate-JavaScript-in-Metasploit)
+- [Metasploit JavaScript Obfuscator](https://github.com/rapid7/metasploit-framework/wiki/How-to-obfuscate-JavaScript-in-Metasploit)
 - [Uglify](http://marijnhaverbeke.nl//uglifyjs)
 
 
@@ -196,24 +196,28 @@ Check solve section for steganography.
 - [BinWalk](https://github.com/devttys0/binwalk) - Analyze, reverse engineer, and extract firmware images.
 - [Boomerang](https://github.com/nemerle/boomerang) - Decompile x86 binaries to C
 - [ctf_import](https://github.com/docileninja/ctf_import) – run basic functions from stripped binaries cross platform
+- [Frida](https://github.com/frida/) - Dynamic Code Injection
 - [GDB](https://www.gnu.org/software/gdb/) - The GNU project debugger
 - [GEF](https://github.com/hugsy/gef) - GDB plugin
+- [Ghidra](https://ghidra-sre.org/) - Open Source suite of reverse engineering tools.  Similar to IDA Pro.
 - [Hopper](http://www.hopperapp.com/) - Reverse engineering tool (disassembler) for OSX and Linux
 - [IDA Pro](https://www.hex-rays.com/products/ida/) - Most used Reversing software
 - [Jadx](https://github.com/skylot/jadx) - Decompile Android files
 - [Java Decompilers](http://www.javadecompilers.com) - An online decompiler for Java and Android APKs
 - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler
+- [Objection](https://github.com/sensepost/objection) - Runtime Mobile Exploration
 - [PEDA](https://github.com/longld/peda) - GDB plugin (only python2.7)
 - [Pin](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool) A dynamic binary instrumentaion tool by Intel
 - [Plasma](https://github.com/joelpx/plasma) - An interactive disassembler for x86/ARM/MIPS which can generate indented pseudo-code with colored syntax.
 - [Pwndbg](https://github.com/pwndbg/pwndbg) - A GDB plugin that provides a suite of utilities to hack around GDB easily. 
 - [radare2](https://github.com/radare/radare2) - A portable reversing framework
+- [Triton](https://github.com/JonathanSalwan/Triton/) - Dynamic Binary Analysis (DBA) framework
 - [Uncompyle](https://github.com/gstarnberger/uncompyle) - Decompile Python 2.7 binaries (.pyc)
 - [WinDbg](http://www.windbg.org/) - Windows debugger distributed by Microsoft
 - [Xocopy](http://reverse.lostrealm.com/tools/xocopy.html) - Program that can copy executables with execute, but no read permission
 - [Z3](https://github.com/Z3Prover/z3) - a theorem prover from Microsoft Research
 
-*JavaScript Deobfustcators*
+*JavaScript Deobfuscators*
 
 - [Detox](http://relentless-coding.org/projects/jsdetox/install) - A Javascript malware analysis tool
 - [Revelo](http://www.kahusecurity.com/tools/Revelo_v0.6.zip) - Analyze obfuscated Javascript code
@@ -245,8 +249,11 @@ Check solve section for steganography.
 - [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) - Used to deblur and fix defocused images
 - [Steganabara](https://www.openhub.net/p/steganabara) -  Tool for stegano analysis written in Java
 - [Stegbreak](https://linux.die.net/man/1/stegbreak) - Launches brute-force dictionary attacks on JPG image
+- [StegCracker](https://github.com/Paradoxis/StegCracker) - Steganography brute-force utility to uncover hidden data inside files 
+- [stegextract](https://github.com/evyatarmeged/stegextract) - Detect hidden files and text in images 
 - [Steghide](http://steghide.sourceforge.net/) - Hide data in various kind of images
 - [Stegsolve](http://www.caesum.com/handbook/Stegsolve.jar) - Apply various steganography techniques to images
+- [Zsteg](https://github.com/zed-0xff/zsteg/) - PNG/BMP analysis
 
 ## Web
 
@@ -257,6 +264,7 @@ Check solve section for steganography.
 - [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbar/) - Firefox addon for easy web exploitation
 - [OWASP ZAP](https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project) - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses
 - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) - Add on for chrome for debugging network requests
+- [Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning
 - [SQLMap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tooli
 - [W3af](https://github.com/andresriancho/w3af) -  Web Application Attack and Audit Framework.
 - [XSSer](http://xsser.sourceforge.net/) - Automated XSS testor
@@ -270,6 +278,7 @@ Check solve section for steganography.
 
 *Penetration testing and security lab Operating Systems*
 
+- [Android Tamer](https://androidtamer.com/) - Based on Debian
 - [BackBox](https://backbox.org/) - Based on Ubuntu
 - [BlackArch Linux](https://blackarch.org/) - Based on Arch Linux
 - [Fedora Security Lab](https://labs.fedoraproject.org/security/) - Based on Fedora
@@ -281,6 +290,7 @@ Check solve section for steganography.
 
 *Malware analysts and reverse-engineering*
 
+- [Flare VM](https://github.com/fireeye/flare-vm/) - Based on Windows
 - [REMnux](https://remnux.org/) - Based on Debian
 
 ## Starter Packs
@@ -309,6 +319,7 @@ Check solve section for steganography.
 *Always online CTFs*
 
 - [Backdoor](https://backdoor.sdslabs.co/) - Security Platform by SDSLabs.
+- [Crackmes](https://crackmes.one/) - Reverse Engineering Challenges
 - [Ctfs.me](http://ctfs.me) - CTF All the time
 - [Exploit Exercises](https://exploit-exercises.com/) - Variety of VMs to learn variety of computer security issues.
 - [Gracker](http://gracker.org) - Binary challenges having a slow learning curve, and write-ups for each level.
@@ -320,6 +331,9 @@ Check solve section for steganography.
 - [Microcorruption](https://microcorruption.com) - Embedded security CTF
 - [Over The Wire](http://overthewire.org/wargames/) - Wargame maintained by OvertheWire Community
 - [Pwnable.kr](http://pwnable.kr/) - Pwn Game
+- [Pwnable.tw](https://pwnable.tw/) - Binary wargame
+- [Pwnable.xyz](https://pwnable.xyz/) - Binary Exploitation Wargame
+- [Reversin.kr](http://reversing.kr/) - Reversing challenge
 - [Ringzer0Team](https://ringzer0team.com/) - Ringzer0 Team Online CTF
 - [Root-Me](https://www.root-me.org/) - Hacking and Information Security learning platform.
 - [ROP Wargames](https://game.rop.sh/) - ROP Wargames
@@ -360,7 +374,7 @@ Check solve section for steganography.
 - [CTF write-ups (community)](https://github.com/ctfs/) - CTF challenges + write-ups archive maintained by the community
 - [CTFTime Scrapper](https://github.com/abdilahrf/CTFWriteupScrapper) - Scraps all writeup from ctf time and organize which to read first
 - [pwntools writeups](https://github.com/Gallopsled/pwntools-write-ups) - A collection of CTF write-ups all using pwntools
-- [Shell Storm](shell-storm.org/repo/CTF/) - CTF challenge archive maintained by Jonathan Salwan
+- [Shell Storm](http://shell-storm.org/repo/CTF/) - CTF challenge archive maintained by Jonathan Salwan
 - [Smoke Leet Everyday](https://github.com/smokeleeteveryday/CTF_WRITEUPS) - CTF write-ups repo maintained by SmokeLeetEveryday team.
 
 ## Keywords to explore
