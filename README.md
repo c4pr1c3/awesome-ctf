@@ -43,6 +43,14 @@ It takes time to build up collection of tools used in ctf and remember them all.
   - [Writeups Collections](#writeups-collections)
   - [Keywords to explore](#keywords-to-explore)
 
+- [Delibrated Vulnerable App](#delibrated-vulnerable-app)
+  - [Java](#java)
+  - [PHP](#php)
+  - [Python](#python)
+  - [NodeJS](#nodejs)
+  - [Android](#android)
+  - [Real World DVA](#real-world-dva)
+
 # Create
 
 *Tools used for creating CTF challenges*
@@ -313,6 +321,8 @@ Check solve section for steganography.
 - [CTF-pwn-tips](https://github.com/Naetw/CTF-pwn-tips) - Some tips about pwn
 - [CTF Tricks by Phithon](https://loudong.360.cn/Public/download/Phithon%E2%80%94%E2%80%94CTF%E6%AF%94%E8%B5%9B%E6%80%BB%E6%98%AF%E8%BE%93%EF%BC%9F%E4%BD%A0%E8%BF%98%E5%B7%AE%E7%82%B9Tricks!.pdf) - CTF tricks about Web (in Chinese)
 - [OWASP Mutillidae 2 Project](https://www.owasp.org/index.php/OWASP_Mutillidae_2_Project) - a free, open source, deliberately vulnerable web-application providing a target for web-security enthusiest
+- [firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One) - all CTF related tutorials complied in one book (in Chinese)
+- [RITSEC](https://github.com/ritsec) - RITSEC is a student run club at Rochester Institute of Technology. There are some CTF writeups and shares in this team repository. 
 
 ## Wargames
 
@@ -388,6 +398,43 @@ Check solve section for steganography.
 * bypass - ex: bypass WAF / bypass sql injection prevention
 * vulnerability database - find known vulnerabilities related to challenge's runtime
 * **Feature Keywords in CTF challenges** - find known or similar challenges and writeups
+
+# Delibrated Vulnerable App
+
+## Java
+
+- [Web Goat](https://github.com/WebGoat/WebGoat) - a deliberately insecure web application maintained by OWASP designed to teach web application security lessons
+- [CSPF-Founder/JavaVulnerableLab](https://github.com/CSPF-Founder/JavaVulnerableLab) - this app is intended for the Java Programmers and other people who wish to learn about Web application vulnerabilities and write secure code
+- [find-sec-bugs/juliet-test-suite](https://github.com/find-sec-bugs/juliet-test-suite) - a collection of test cases in the Java language. It contains examples for 112 different CWEs.
+
+## PHP
+
+- [ajinabraham/Vulnerable_Tornado_App](https://github.com/ajinabraham/Vulnerable_Tornado_App)
+- [Damn Vulnerable Web Application](http://www.dvwa.co.uk/) - PHP/MySQL web application that is damn vulnerable
+- [mddanish/Vulnerable-OTP-Application](https://github.com/mddanish/Vulnerable-OTP-Application) - Vulnerable OTP Application created using PHP & Google OTP
+
+## Python
+
+- [portantier/vulpy](https://github.com/portantier/vulpy) - a web application developed in Python / Flask / SQLite that has two faces
+- [nVisium/django.nV](https://github.com/nVisium/django.nV) - a purposefully vulnerable Django application provided by [nVisium](https://www.nvisium.com/)
+
+## NodeJS
+
+- [Juice Shop CTF](https://github.com/bkimminich/juice-shop-ctf) - Scripts and tools for hosting a CTF on [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) easily.
+- [DVNA](https://github.com/appsecco/dvna) - a Damn Vulnerable NodeJS Application which is powered by commonly used libraries such as express, passport, sequelize, etc.
+- [OWASP/NodeGoat](https://github.com/OWASP/NodeGoat) - The OWASP NodeGoat project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them
+
+## Android
+
+- [abhi-r3v0/EVABS](https://github.com/abhi-r3v0/EVABS) - an open source Android application that is intentionally vulnerable so as to act as a learning platform for Android application security beginners
+- [t0thkr1s/frida-demo](https://github.com/t0thkr1s/frida-demo) - an intentionally vulnerable Android application for Frida Demonstration
+
+## Real World DVA
+
+- [vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose https://vulhub.org
+- [vulnhub](https://www.vulnhub.com/) - it provides a practical 'hands-on' experience in digital security, computer software & network administration
+- [Medicean/VulApps](https://github.com/Medicean/VulApps) - yet another ***vulhub*** like project (in Chinese)
+- [nixawk/labs](https://github.com/nixawk/labs) - a collection of some CVE vulnerable apps / samples / PoCs
 
 ### LICENSE
 
