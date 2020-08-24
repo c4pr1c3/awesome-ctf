@@ -388,8 +388,8 @@ Check solve section for steganography.
 - [W3Challs](https://w3challs.com) - A penetration testing training platform, which offers various computer challenges, in various categories.
 - [WebHacking](http://webhacking.kr) - Hacking challenges for web.
 - [247ctf](https://247ctf.com/) - A learning oriented real CTF platform with challenges covering across web, cryptography, networking, reversing and exploitation.
-* [jarvisoj](https://www.jarvisoj.com/) - A CTF training platform developed by Jarvis from USSLab in ZJU. 
-* [buuoj](https://buuoj.cn/) - A CTF training platform with challenges collected from the past real CTF contests around the world. (in Chinese)
+- [jarvisoj](https://www.jarvisoj.com/) - A CTF training platform developed by Jarvis from USSLab in ZJU. 
+- [buuoj](https://buuoj.cn/) - A CTF training platform with challenges collected from the past real CTF contests around the world. (in Chinese)
 
 
 *Self-hosted CTFs*
