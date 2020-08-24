@@ -387,12 +387,16 @@ Check solve section for steganography.
 - [VulnHub](https://www.vulnhub.com/) - VM-based for practical in digital security, computer application & network administration.
 - [W3Challs](https://w3challs.com) - A penetration testing training platform, which offers various computer challenges, in various categories.
 - [WebHacking](http://webhacking.kr) - Hacking challenges for web.
+- [247ctf](https://247ctf.com/) - A learning oriented real CTF platform with challenges covering across web, cryptography, networking, reversing and exploitation.
+* [jarvisoj](https://www.jarvisoj.com/) - A CTF training platform developed by Jarvis from USSLab in ZJU. 
+* [buuoj](https://buuoj.cn/) - A CTF training platform with challenges collected from the past real CTF contests around the world. (in Chinese)
 
 
 *Self-hosted CTFs*
 - [Damn Vulnerable Web Application](http://www.dvwa.co.uk/) - PHP/MySQL web application that is damn vulnerable.
 - [Juice Shop CTF](https://github.com/bkimminich/juice-shop-ctf) - Scripts and tools for hosting a CTF on [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) easily.
 - [My CTF Web Challenges](https://github.com/orangetw/My-CTF-Web-Challenges) - CTF challenge's source code, writeup and some idea explanation. All about Web.
+- [CTFTraining](https://github.com/CTFTraining/CTFTraining) - CTF challenge's source code, writeup collected from the past real CTF contests around the world. (in Chinese)
 
 ## Websites
 
