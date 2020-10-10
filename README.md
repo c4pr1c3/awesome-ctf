@@ -301,6 +301,9 @@ Check solve section for steganography.
 - [W3af](https://github.com/andresriancho/w3af) -  Web Application Attack and Audit Framework.
 - [XSSer](http://xsser.sourceforge.net/) - Automated XSS testor.
 
+*Cheatsheets used for solving or creating Web challenges*
+
+- [CHYbeta/Code-Audit-Challenges](https://github.com/CHYbeta/Code-Audit-Challenges) - vulnerable code snippets can be used for source code audit challenges (in Chinese)
 
 # Resources
 
@@ -397,6 +400,7 @@ Check solve section for steganography.
 - [Juice Shop CTF](https://github.com/bkimminich/juice-shop-ctf) - Scripts and tools for hosting a CTF on [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) easily.
 - [My CTF Web Challenges](https://github.com/orangetw/My-CTF-Web-Challenges) - CTF challenge's source code, writeup and some idea explanation. All about Web.
 - [CTFTraining](https://github.com/CTFTraining/CTFTraining) - CTF challenge's source code, writeup collected from the past real CTF contests around the world. (in Chinese)
+- [Pikachu](https://github.com/zhuifengshaonianhanlu/pikachu) - PHP web application with some common delibrated vulnerabilities. (in Chinese)
 
 ## Websites
 
