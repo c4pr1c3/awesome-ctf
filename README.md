@@ -340,24 +340,26 @@ Check solve section for steganography.
 *Tutorials to learn how to play CTFs*
 
 - [CTF Field Guide](https://trailofbits.github.io/ctf/) - Field Guide by Trails of Bits
+- [CTF related notes](https://github.com/it-ebooks/hacking-reading-list) - Personal CTFs and beyond notes (in Chinese)
 - [CTF Resources](http://ctfs.github.io/resources/) -  Start Guide maintained by community
+- [CTF Tricks by Phithon](https://loudong.360.cn/Public/download/Phithon%E2%80%94%E2%80%94CTF%E6%AF%94%E8%B5%9B%E6%80%BB%E6%98%AF%E8%BE%93%EF%BC%9F%E4%BD%A0%E8%BF%98%E5%B7%AE%E7%82%B9Tricks!.pdf) - CTF tricks about Web (in Chinese)
+- [CTF-pwn-tips](https://github.com/Naetw/CTF-pwn-tips) - Some tips about pwn
+- [firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One) - all CTF related tutorials complied in one book (in Chinese)
 - [How to Get Started in CTF](https://www.endgame.com/blog/how-get-started-ctf) - Short guideline for CTF beginners by Endgame
 - [Intro. to CTF Course](https://www.hoppersroppers.org/courseCTF.html) - A free course that teaches beginners the basics of forensics, crypto, and web-ex.
 - [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) - Video tutorials and walkthroughs of popular CTF platforms.
 - [LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - Video tutorials on Exploitation.
 - [MIPT CTF](https://github.com/xairy/mipt-ctf) - A small course for beginners in CTFs (in Russian)
-- [CTF related notes](https://github.com/it-ebooks/hacking-reading-list) - Personal CTFs and beyond notes (in Chinese)
-- [CTF-pwn-tips](https://github.com/Naetw/CTF-pwn-tips) - Some tips about pwn
-- [CTF Tricks by Phithon](https://loudong.360.cn/Public/download/Phithon%E2%80%94%E2%80%94CTF%E6%AF%94%E8%B5%9B%E6%80%BB%E6%98%AF%E8%BE%93%EF%BC%9F%E4%BD%A0%E8%BF%98%E5%B7%AE%E7%82%B9Tricks!.pdf) - CTF tricks about Web (in Chinese)
 - [OWASP Mutillidae 2 Project](https://www.owasp.org/index.php/OWASP_Mutillidae_2_Project) - a free, open source, deliberately vulnerable web-application providing a target for web-security enthusiest
-- [firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One) - all CTF related tutorials complied in one book (in Chinese)
 - [RITSEC](https://github.com/ritsec) - RITSEC is a student run club at Rochester Institute of Technology. There are some CTF writeups and shares in this team repository. 
 
 ## Wargames
 
 *Always online CTFs*
 
+- [247ctf](https://247ctf.com/) - A learning oriented real CTF platform with challenges covering across web, cryptography, networking, reversing and exploitation.
 - [Backdoor](https://backdoor.sdslabs.co/) - Security Platform by SDSLabs.
+- [buuoj](https://buuoj.cn/) - A CTF training platform with challenges collected from the past real CTF contests around the world. (in Chinese)
 - [Crackmes](https://crackmes.one/) - Reverse Engineering Challenges.
 - [CryptoHack](https://cryptohack.org/) - Fun cryptography challenges.
 - [echoCTF.RED](https://echoctf.red/) - Online CTF with a variety of targets to attack.
@@ -370,6 +372,7 @@ Check solve section for steganography.
 - [Hacking-Lab](https://hacking-lab.com/) - Ethical hacking, computer network and security challenge platform.
 - [Hone Your Ninja Skills](https://honeyourskills.ninja/) - Web challenges starting from basic ones.
 - [IO](http://io.netgarage.org/) - Wargame for binary challenges.
+- [jarvisoj](https://www.jarvisoj.com/) - A CTF training platform developed by Jarvis from USSLab in ZJU. 
 - [Microcorruption](https://microcorruption.com) - Embedded security CTF.
 - [Over The Wire](http://overthewire.org/wargames/) - Wargame maintained by OvertheWire Community.
 - [PentesterLab](https://pentesterlab.com/) - Variety of VM and online challenges (paid).
@@ -389,16 +392,12 @@ Check solve section for steganography.
 - [VulnHub](https://www.vulnhub.com/) - VM-based for practical in digital security, computer application & network administration.
 - [W3Challs](https://w3challs.com) - A penetration testing training platform, which offers various computer challenges, in various categories.
 - [WebHacking](http://webhacking.kr) - Hacking challenges for web.
-- [247ctf](https://247ctf.com/) - A learning oriented real CTF platform with challenges covering across web, cryptography, networking, reversing and exploitation.
-- [jarvisoj](https://www.jarvisoj.com/) - A CTF training platform developed by Jarvis from USSLab in ZJU. 
-- [buuoj](https://buuoj.cn/) - A CTF training platform with challenges collected from the past real CTF contests around the world. (in Chinese)
 
 
 *Self-hosted CTFs*
 
-- [Juice Shop CTF](https://github.com/bkimminich/juice-shop-ctf) - Scripts and tools for hosting a CTF on [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) easily.
-- [My CTF Web Challenges](https://github.com/orangetw/My-CTF-Web-Challenges) - CTF challenge's source code, writeup and some idea explanation. All about Web.
 - [CTFTraining](https://github.com/CTFTraining/CTFTraining) - CTF challenge's source code, writeup collected from the past real CTF contests around the world. (in Chinese)
+- [My CTF Web Challenges](https://github.com/orangetw/My-CTF-Web-Challenges) - CTF challenge's source code, writeup and some idea explanation. All about Web.
 - [Pikachu](https://github.com/zhuifengshaonianhanlu/pikachu) - PHP web application with some common delibrated vulnerabilities. (in Chinese)
 
 ## Websites
@@ -416,9 +415,9 @@ Check solve section for steganography.
 - [Bamboofox](https://bamboofox.torchpad.com/) - Chinese resources to learn CTF
 - [bi0s Wiki](https://teambi0s.gitlab.io/bi0s-wiki/) - Wiki from team bi0s.
 - [CTF Cheatsheet](https://uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/) - CTF tips and tricks.
+- [CTF-Wiki](https://ctf-wiki.github.io/ctf-wiki/) - Open Wiki for beginners in CTFs  (in Chinese and English)
 - [ISIS Lab](https://github.com/isislab/Project-Ideas/wiki) - CTF Wiki by Isis lab
 - [OpenToAll](http://wiki.opentoallctf.com/) - Open To All Knowledge Base
-- [CTF-Wiki](https://ctf-wiki.github.io/ctf-wiki/) - Open Wiki for beginners in CTFs  (in Chinese and English)
 
 ## Writeups Collections
 
@@ -451,9 +450,9 @@ Check solve section for steganography.
 
 ## Java
 
-- [Web Goat](https://github.com/WebGoat/WebGoat) - a deliberately insecure web application maintained by OWASP designed to teach web application security lessons
 - [CSPF-Founder/JavaVulnerableLab](https://github.com/CSPF-Founder/JavaVulnerableLab) - this app is intended for the Java Programmers and other people who wish to learn about Web application vulnerabilities and write secure code
 - [find-sec-bugs/juliet-test-suite](https://github.com/find-sec-bugs/juliet-test-suite) - a collection of test cases in the Java language. It contains examples for 112 different CWEs.
+- [Web Goat](https://github.com/WebGoat/WebGoat) - a deliberately insecure web application maintained by OWASP designed to teach web application security lessons
 
 ## PHP
 
@@ -463,13 +462,13 @@ Check solve section for steganography.
 
 ## Python
 
-- [portantier/vulpy](https://github.com/portantier/vulpy) - a web application developed in Python / Flask / SQLite that has two faces
 - [nVisium/django.nV](https://github.com/nVisium/django.nV) - a purposefully vulnerable Django application provided by [nVisium](https://www.nvisium.com/)
+- [portantier/vulpy](https://github.com/portantier/vulpy) - a web application developed in Python / Flask / SQLite that has two faces
 
 ## NodeJS
 
-- [Juice Shop CTF](https://github.com/bkimminich/juice-shop-ctf) - Scripts and tools for hosting a CTF on [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) easily.
 - [DVNA](https://github.com/appsecco/dvna) - a Damn Vulnerable NodeJS Application which is powered by commonly used libraries such as express, passport, sequelize, etc.
+- [Juice Shop CTF](https://github.com/bkimminich/juice-shop-ctf) - Scripts and tools for hosting a CTF on [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) easily.
 - [OWASP/NodeGoat](https://github.com/OWASP/NodeGoat) - The OWASP NodeGoat project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them
 
 ## Android
@@ -479,10 +478,9 @@ Check solve section for steganography.
 
 ## Real World DVA
 
-- [vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose https://vulhub.org
-- [vulnhub](https://www.vulnhub.com/) - it provides a practical 'hands-on' experience in digital security, computer software & network administration
 - [Medicean/VulApps](https://github.com/Medicean/VulApps) - yet another ***vulhub*** like project (in Chinese)
 - [nixawk/labs](https://github.com/nixawk/labs) - a collection of some CVE vulnerable apps / samples / PoCs
+- [vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose https://vulhub.org
 
 ### LICENSE
 
