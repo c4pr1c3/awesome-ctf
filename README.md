@@ -33,7 +33,16 @@ It takes time to build up collection of tools used in CTF and remember them all.
     - [Steganography](#steganography-1)
     - [Web](#web-1)
 
+- [Delibrated Vulnerable App](#delibrated-vulnerable-app)
+  - [Android](#android)
+  - [Java](#java)
+  - [NodeJS](#nodejs)
+  - [PHP](#php)
+  - [Python](#python)
+  - [Real World DVA](#real-world-dva)
+
 - [Resources](#resources)
+  - [Keywords to explore](#keywords-to-explore)
   - [Operating Systems](#operating-systems)
   - [Starter Packs](#starter-packs)
   - [Tutorials](#tutorials)
@@ -41,15 +50,6 @@ It takes time to build up collection of tools used in CTF and remember them all.
   - [Websites](#websites)
   - [Wikis](#wikis)
   - [Writeups Collections](#writeups-collections)
-  - [Keywords to explore](#keywords-to-explore)
-
-- [Delibrated Vulnerable App](#delibrated-vulnerable-app)
-  - [Java](#java)
-  - [PHP](#php)
-  - [Python](#python)
-  - [NodeJS](#nodejs)
-  - [Android](#android)
-  - [Real World DVA](#real-world-dva)
 
 # Create
 
@@ -341,7 +341,6 @@ Check solve section for steganography.
 
 - [CTF Field Guide](https://trailofbits.github.io/ctf/) - Field Guide by Trails of Bits
 - [CTF Resources](http://ctfs.github.io/resources/) -  Start Guide maintained by community
-- [Damn Vulnerable Web Application](http://www.dvwa.co.uk/) - PHP/MySQL web application that is damn vulnerable
 - [How to Get Started in CTF](https://www.endgame.com/blog/how-get-started-ctf) - Short guideline for CTF beginners by Endgame
 - [Intro. to CTF Course](https://www.hoppersroppers.org/courseCTF.html) - A free course that teaches beginners the basics of forensics, crypto, and web-ex.
 - [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) - Video tutorials and walkthroughs of popular CTF platforms.
@@ -396,7 +395,7 @@ Check solve section for steganography.
 
 
 *Self-hosted CTFs*
-- [Damn Vulnerable Web Application](http://www.dvwa.co.uk/) - PHP/MySQL web application that is damn vulnerable.
+
 - [Juice Shop CTF](https://github.com/bkimminich/juice-shop-ctf) - Scripts and tools for hosting a CTF on [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) easily.
 - [My CTF Web Challenges](https://github.com/orangetw/My-CTF-Web-Challenges) - CTF challenge's source code, writeup and some idea explanation. All about Web.
 - [CTFTraining](https://github.com/CTFTraining/CTFTraining) - CTF challenge's source code, writeup collected from the past real CTF contests around the world. (in Chinese)
