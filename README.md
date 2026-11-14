@@ -293,6 +293,7 @@ Check solve section for steganography.
 - [BurpSuite](https://portswigger.net/burp) - A graphical tool to testing website security.
 - [Commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection and Exploitation Tool.
 - [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbartool/) - Firefox addon for easy web exploitation.
+- [NextJSON](https://nextjson.com/) - Free online nested JSON parser and formatter that decodes escaped JSON strings (handy for inspecting web API payloads).
 - [OWASP ZAP](https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project) - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses
 - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) - Add on for chrome for debugging network requests.
 - [Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning.
